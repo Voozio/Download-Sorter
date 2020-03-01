@@ -8,3 +8,9 @@ Description: Files are sorted based on file extension. The root directory may be
 # Screenshots
 <b>Pre-Sort</b><br>
 ![Image of pre-sort](https://github.com/Voozio/Images/blob/master/File%20Sorter/pre-sort.png?raw=true)
+
+<b>Post-Sort</b><br>
+![Image of pre-sort](https://github.com/Voozio/Images/blob/master/File%20Sorter/post-sort.png?raw=true)
+
+<b>File Explorer</b><br>
+![Image of pre-sort](https://github.com/Voozio/Images/blob/master/File%20Sorter/file_explorer.png?raw=true)
