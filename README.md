@@ -7,4 +7,4 @@ Description: Files are sorted based on file extension. The root directory may be
 
 # Screenshots
 Pre-Sort
-![Image of pre-sort](https://www.github.com/Voozio/Images/File-Sorter/pre-sort.png?raw=true)
+![Image of pre-sort](https://github.com/Voozio/Images/blob/master/File%20Sorter/pre-sort.png?raw=true)
